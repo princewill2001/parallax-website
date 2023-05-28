@@ -14,4 +14,4 @@ window.addEventListener('scroll', () => {
     hill4.style.left = value * -1.5 + 'px';
 });
 
-//Continous coding 
+//Continous coding with oche 
