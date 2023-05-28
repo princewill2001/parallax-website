@@ -13,3 +13,5 @@ window.addEventListener('scroll', () => {
     hill5.style.left = value * 1.5 + 'px';
     hill4.style.left = value * -1.5 + 'px';
 });
+
+//Continous coding 
